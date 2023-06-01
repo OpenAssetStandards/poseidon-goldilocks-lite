@@ -18,7 +18,7 @@
   <h3 align="center">poseidon-goldilocks-lite</h3>
 
   <p align="center">
-A zero dependency suite of Poseidon Goldilocks hash functions that are one-to-one compatible with those used in <a href="https://github.com/mir-protocol/plonky2">plonky2</a>, along with commonly used functions for creating and verifying merkle proofs compatible with plonky2.
+A zero dependency suite of Poseidon Goldilocks hash functions that are one-to-one compatible with those used in <a href="https://github.com/mir-protocol/plonky2">plonky2</a>, along with commonly used functions for creating and verifying merkle proofs compatible with plonky2. 10kb gzipped 🎉
   </p>
 </div>
 
